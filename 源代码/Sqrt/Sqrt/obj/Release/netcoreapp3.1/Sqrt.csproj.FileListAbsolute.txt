@@ -1,0 +1,11 @@
+C:\Users\Antonio\Documents\Visual Studio Projects\Sqrt\Sqrt\bin\Release\netcoreapp3.1\Sqrt.exe
+C:\Users\Antonio\Documents\Visual Studio Projects\Sqrt\Sqrt\bin\Release\netcoreapp3.1\Sqrt.deps.json
+C:\Users\Antonio\Documents\Visual Studio Projects\Sqrt\Sqrt\bin\Release\netcoreapp3.1\Sqrt.runtimeconfig.json
+C:\Users\Antonio\Documents\Visual Studio Projects\Sqrt\Sqrt\bin\Release\netcoreapp3.1\Sqrt.runtimeconfig.dev.json
+C:\Users\Antonio\Documents\Visual Studio Projects\Sqrt\Sqrt\bin\Release\netcoreapp3.1\Sqrt.dll
+C:\Users\Antonio\Documents\Visual Studio Projects\Sqrt\Sqrt\bin\Release\netcoreapp3.1\Sqrt.pdb
+C:\Users\Antonio\Documents\Visual Studio Projects\Sqrt\Sqrt\obj\Release\netcoreapp3.1\Sqrt.csprojAssemblyReference.cache
+C:\Users\Antonio\Documents\Visual Studio Projects\Sqrt\Sqrt\obj\Release\netcoreapp3.1\Sqrt.AssemblyInfoInputs.cache
+C:\Users\Antonio\Documents\Visual Studio Projects\Sqrt\Sqrt\obj\Release\netcoreapp3.1\Sqrt.AssemblyInfo.cs
+C:\Users\Antonio\Documents\Visual Studio Projects\Sqrt\Sqrt\obj\Release\netcoreapp3.1\Sqrt.dll
+C:\Users\Antonio\Documents\Visual Studio Projects\Sqrt\Sqrt\obj\Release\netcoreapp3.1\Sqrt.pdb

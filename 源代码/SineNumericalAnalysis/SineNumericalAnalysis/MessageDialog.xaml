@@ -1,0 +1,35 @@
+﻿<Window x:Class="SineNumericalAnalysis.MessageDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SineNumericalAnalysis"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="18"
+        TextOptions.TextFormattingMode="Ideal" 
+        TextOptions.TextRenderingMode="Auto"   
+        ResizeMode="NoResize"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen"
+        Title="MainWindow" Height="130" Width="270">
+    <Grid>
+        <materialDesign:Card Name="InfoCard" Padding="16" Margin="16">
+            <TextBlock Name="InfoBlock" Style="{DynamicResource MaterialDesignTitleTextBlock}">Info</TextBlock>
+        </materialDesign:Card>
+        <Button Content="OK" 
+                HorizontalAlignment="Left" 
+                Margin="30,90,0,0" 
+                VerticalAlignment="Top"
+                Height="30"
+                Name="OK"
+                Click="OK_Click"
+                Style="{DynamicResource MaterialDesignRaisedDarkButton}"
+                Width="210"/>
+    </Grid>
+</Window>
+
